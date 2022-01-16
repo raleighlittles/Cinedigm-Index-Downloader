@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /robert-drew-ten-masterworks-of-american-cinema-verite/
